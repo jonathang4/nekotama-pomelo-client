@@ -6,6 +6,6 @@
   
   var protobuf = require('./js/protobuf');
   window.protobuf = protobuf;
-  console.log("protocol",protocol);
+  
   var pomelo = require('./js/pomelo-client');
   window.pomelo = pomelo;
