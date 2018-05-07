@@ -1,11 +1,24 @@
 {
   "name": "nekotama-pomelo-client",
   "version": "1.0.0",
-  "description": "pomelo web client lib",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathang4/nekotama-pomelo-client.git"
+  },
+  "keywords": [
+    "pomelo",
+    "web",
+    "client"
+  ],
   "author": "jonathang4",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathang4/nekotama-pomelo-client/issues"
+  },
+  "homepage": "https://github.com/jonathang4/nekotama-pomelo-client#readme"
 }
