@@ -13,7 +13,7 @@ npm i nekotama-pomelo-client
 ``` javascript
 require("nekotama-pomelo-client");
 ```
-
+>调用API请参考官方文档:[pomelo客户端开发][3]
 
 ## 问题反馈
 - Email: <jonathangdemon@gmail.com>
