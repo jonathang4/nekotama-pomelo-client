@@ -23,3 +23,4 @@ require("nekotama-pomelo-client");
 
   [1]: https://github.com/NetEase/pomelo
   [2]: https://github.com/NetEase/chatofpomelo-websocket/tree/master/web-server/public/js/lib
+  [3]: https://github.com/NetEase/pomelo/wiki/pomelo%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91
